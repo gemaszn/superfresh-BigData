@@ -40,6 +40,7 @@ proyecto_superfresh/
 │   └── 07_comparacion_modelos.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Flujo del proyecto
 Comprobar que Spark funciona.
